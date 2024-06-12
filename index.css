@@ -32,3 +32,10 @@ body{
            color: #ffffff;
       }
  
+header {
+    padding: 1rem 0;
+}
+
+.navbar-brand img {
+    border-radius: 50%;
+}
