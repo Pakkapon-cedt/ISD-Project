@@ -1,0 +1,20 @@
+body{
+    background-image: url('bg\ img\ ISD.jpg');
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .image{
+    position: absolute;
+    top: 0;
+    left: 1cm;
+
+  }
+  .text-bg-dark{
+    background-color: aqua;
+  }
+  #typing{
+    margin-top: 400px;
+    font-size: 45px;
+    text-align: center;
+  }
+ 
