@@ -21,14 +21,14 @@ body{
   }
  @media (max-width: 480px) {
       #typing {
-        font-size: 15px;
+        font-size: 20px;
         margin-top: 200px;
           color: #ffffff;
       }
  }
       @media (max-width: 768px) {
       #typing {
-        font-size: 15px;
+        font-size: 20px;
         margin-top: 200px;
            color: #ffffff;
       }
