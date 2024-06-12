@@ -105,10 +105,9 @@
     background-color: rgb(43, 131, 109);
   }
   
-  footer {
-    position: absolute;
-    right: 42%;
-  }
+ footer .container {
+    text-align: center;
+}
  @media (max-width: 480px) {
       #typing {
         font-size: 12px;
