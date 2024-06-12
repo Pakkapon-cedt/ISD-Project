@@ -23,6 +23,7 @@ body{
       #typing {
         font-size: 12px;
         margin-top: 100px;
+          color: #fffff;
       }
       @media (max-width: 767.98px) {
       #typing {
