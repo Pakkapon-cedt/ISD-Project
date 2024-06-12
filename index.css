@@ -25,6 +25,7 @@ body{
         margin-top: 200px;
           color: #ffffff;
       }
+ }
       @media (max-width: 768px) {
       #typing {
         font-size: 15px;
