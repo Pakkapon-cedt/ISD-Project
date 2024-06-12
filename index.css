@@ -2,6 +2,8 @@ body{
     background-image: url('bg\ img\ ISD.jpg');
     background-size: cover;
     background-color: rgba(255, 255, 255, 1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
   .image{
     position: absolute;
