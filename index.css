@@ -19,7 +19,12 @@ body{
     font-size: 45px;
     text-align: center;
   }
- @media (max-width: 767.98px) {
+ @media (max-width: 480px) {
+      #typing {
+        font-size: 12px;
+        margin-top: 100px;
+      }
+      @media (max-width: 767.98px) {
       #typing {
         font-size: 24px;
         margin-top: 200px;
