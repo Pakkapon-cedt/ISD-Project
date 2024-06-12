@@ -17,4 +17,9 @@ body{
     font-size: 45px;
     text-align: center;
   }
+ @media (max-width: 767.98px) {
+      #typing {
+        font-size: 24px;
+        margin-top: 200px;
+      }
  
