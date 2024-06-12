@@ -39,3 +39,6 @@ header {
 .navbar-brand img {
     border-radius: 70%;
 }
+          .nav-item .nav-link {
+    margin-left: 10px; 
+}
