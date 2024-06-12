@@ -109,8 +109,14 @@
     position: absolute;
     right: 42%;
   }
- @media (max-width: 767.98px) {
+@media (max-width: 480px) {
       #typing {
-        font-size: 24px;
+        font-size: 12px;
+        margin-top: 200px;
+          color: #ffffff;
+      }
+      @media (max-width: 767.98px) {
+      #typing {
+        font-size: 20px;
         margin-top: 200px;
       }
